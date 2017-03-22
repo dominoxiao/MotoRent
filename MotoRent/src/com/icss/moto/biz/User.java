@@ -34,6 +34,7 @@ public class User {
 		if(motos != null){
 			for(Moto moto : motos){
 				rentMoto(moto);      
+				//zhangsan-------------------xxxxxxxxxxxxxxxxxxxxx
 			}
 			
 		}
