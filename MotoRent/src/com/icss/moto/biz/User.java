@@ -35,6 +35,8 @@ public class User {
 			for(Moto moto : motos){
 				rentMoto(moto);      
 				//zhangsan-------------------xxxxxxxxxxxxxxxxxxxxx
+             	//lisi-----------------------------modified
+				ccccccccccccccccc
 			}
 			
 		}

@@ -75,6 +75,7 @@ public abstract class Moto {
 	}
 	public void setSeatNum(int seatNum) {
 		this.seatNum = seatNum;
+		//by lisi ---------------------modify
 	}
 	
 	
