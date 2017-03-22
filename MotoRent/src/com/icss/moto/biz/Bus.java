@@ -10,6 +10,9 @@ public class Bus extends Moto{
 			this.dayMoney = 1500;			
 		}else{
 			this.dayMoney = 800;
+			//ÕÅÈıĞŞ¸Ä----bus
+			sssssssssssfffffffffffffff
+				dddddddddddddddddddddddd
 		}
 	}
 
