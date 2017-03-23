@@ -11,7 +11,7 @@ public class Car extends Moto{
 		else if(motoType == MotoType.BIEKE_STREET)
 			this.dayMoney = 300;
 		else{
-			
+			//bugfix-aa add
 		}
 			
 	}

@@ -13,6 +13,7 @@ public class Bus extends Moto{
 			//ÕÅÈıĞŞ¸Ä----bus
 			sssssssssssfffffffffffffff
 				dddddddddddddddddddddddd
+				//bugfix-aa addd
 		}
 	}
 
