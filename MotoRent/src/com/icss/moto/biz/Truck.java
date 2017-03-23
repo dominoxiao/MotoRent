@@ -24,5 +24,7 @@ public class Truck extends Moto{
 	 */
 	public double getDayMoney() {
 		return dayDunMoney*this.dunWeight;  //卡车的日租金=每天每吨的租金*吨位
+	
+	//tag demo
 	}
 }
